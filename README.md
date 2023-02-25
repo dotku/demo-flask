@@ -4,6 +4,8 @@ This is a demo project based on Flask 2.2.x Tutorial.
 
 ## Live
 
+![image](https://user-images.githubusercontent.com/1519232/221347020-0ba00ea4-ff0b-4346-acac-fb5d2e1f8ad2.png)
+
 [https://dotku.pythonanywhere.com/](https://dotku.pythonanywhere.com/)
 
 > :warning: Due to pythonanywhere free account limitation, the live will be disabled on Thursday 25 May 2023; ping me if you want to check out the live again, I can reactivete the site. Or maybe fund me by $5/mo so I can keep the demo site longer?
