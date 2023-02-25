@@ -6,6 +6,8 @@ This is a demo project based on Flask 2.2.x Tutorial.
 
 [https://dotku.pythonanywhere.com/](https://dotku.pythonanywhere.com/)
 
+> :warning: Due to pythonanywhere free account limitation, the live will be disabled on Thursday 25 May 2023; ping me if you want to check out the live again, I can reactivete the site. Or maybe fund me by $5/mo so I can keep the demo site longer?
+
 ## Throubleshooting on PythonAnyWhere hosting
 
 ### TypeError: 'module' object is not callable
